@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Screening Agent
 
 ## Features
@@ -51,3 +52,6 @@ http://localhost:3000
 ```bash
 docker-compose up --build
 ```
+=======
+# ai-resume-agent
+>>>>>>> f6c118eda6da140002417d8831f91e6f75723b41
